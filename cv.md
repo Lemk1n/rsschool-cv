@@ -1,5 +1,5 @@
 ## 1. My Name
-![avatar](https://avatars.githubusercontent.com/u/56476999?v=4&w=442&h=442&mask=circle)
+![avatar](https://avatars.githubusercontent.com/u/56476999?v=4)
 
 **Dmitriy Lemeshevskiy**
 
@@ -14,7 +14,7 @@ In recent years I was studied without the opportunity to work. There were only p
 
 ## 4. Skills
 
-- Delphi, C, C++, C#, JavaScript
+- Delphi, C, C++, C#, JavaScript, HTML, CSS
 - Working in VS code, VS, MongoDB
 
 ## 5. Code examples
