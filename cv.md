@@ -45,10 +45,14 @@ private bool IsAuthorized()
             return false;
         }
 ```
-## 6. Education
+## 6. Experience
+
+None.
+
+## 7. Education
 
 - Unfinished BSUIR
 
-## 7. Languages
+## 8. Languages
 
 - English A2+
